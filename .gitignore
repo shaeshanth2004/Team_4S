@@ -1,0 +1,15 @@
+# Ignore Vivado files
+*.log
+*.jou
+*.str
+*.cache
+*.hw
+*.runs
+*.sim
+*.xpr
+*.ip_user_files/
+*.gen/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
