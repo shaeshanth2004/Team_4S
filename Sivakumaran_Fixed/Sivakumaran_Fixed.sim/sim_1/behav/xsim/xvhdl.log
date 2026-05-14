@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Sivakumaran_Fixed/Sivakumaran_Fixed.srcs/sources_1/imports/design_sources/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FA'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Sivakumaran_Fixed/Sivakumaran_Fixed.srcs/sources_1/imports/design_sources/RCA_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RCA_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Sivakumaran_Fixed/Sivakumaran_Fixed.srcs/sim_1/imports/testbenches/RCA_4_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RCA_4_tb'

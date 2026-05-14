@@ -1,0 +1,50 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/BusDefinitions.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Add_Sub_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Add_Sub_4_bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Address_Selector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Address_Selector'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Decoder_2_to_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Decoder_2_to_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Decoder_3_to_8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Decoder_3_to_8'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FA'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'HA'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/constants.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Instruction_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Instruction_Decoder'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/LUT_16_7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LUT_16_7'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Load_Selector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Load_Selector'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Mux_2way_3bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Mux_2way_3bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Mux_2way_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Mux_2way_4bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Mux_8way_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Mux_8way_4bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/NanoProcessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'NanoProcessor'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/PC_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PC_Adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Program_Counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Program_Counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Program_ROM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Program_ROM'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/RCA_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RCA_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/RCA_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RCA_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/RegisterData_Multiplexer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'RegisterData_Multiplexer'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Register_Bank'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Slow_Clk'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sources_1/new/reg_3bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'reg_3bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.srcs/sim_1/new/NanoProcessor_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'NanoProcessor_TB'

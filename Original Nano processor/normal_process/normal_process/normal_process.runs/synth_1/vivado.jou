@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Mon May 11 15:50:10 2026
+# Process ID         : 8260
+# Current directory  : D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.runs/synth_1
+# Command line       : vivado.exe -log NanoProcessor.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source NanoProcessor.tcl
+# Log file           : D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.runs/synth_1/NanoProcessor.vds
+# Journal file       : D:/CODDFIN/Original Nano processor/normal_process/normal_process/normal_process.runs/synth_1\vivado.jou
+# Running On         : ShaeshanthG15
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i7-13650HX
+# CPU Frequency      : 2803 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16849 MB
+# Swap memory        : 18253 MB
+# Total Virtual      : 35102 MB
+# Available Virtual  : 16094 MB
+#-----------------------------------------------------------
+source NanoProcessor.tcl -notrace
